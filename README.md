@@ -1,6 +1,6 @@
 # Kaweesha Hewa Wickramathunga  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-**Aspiring Data Scientist | Machine Learning Enthusiast | Data-Driven Innovator**
+Aspiring Data Scientist | Machine Learning Enthusiast | Data-Driven Innovator
 
 
 
